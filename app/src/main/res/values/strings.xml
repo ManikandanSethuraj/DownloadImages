@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Download Images</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="urls">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+        <item>Image 6</item>
+    </string-array>
+    <string-array name="imageUrls">
+        <item>http://www.hdnicewallpapers.com/Walls/Big/Cricket/Suresh_Raina_Indian_Batsman_Criketer_in_Ground_During_Rain_Wallpaper.jpg</item>
+        <item>http://www.hdnicewallpapers.com/Walls/Big/Cricket/Kevin_Pietersen_England_Cricketer_Wallpaper.jpg</item>
+        <item>http://www.hdnicewallpapers.com/Walls/Big/Cricket/Sri_Lankan_Cricket_Player_Kumar_Sangakkara_Play_One_Day_International_Match_on_Ground_Wallpaper.jpg</item>
+        <item>http://www.hdnicewallpapers.com/Walls/Big/Cricket/Shahid_Afridi_and_other_Pakistani_Cricketer_Celebrates_after_Take_Wicket_in_One_Day_Match_Wallpapers.jpg</item>
+        <item>http://www.hdnicewallpapers.com/Walls/Big/Cricket/Master_Blaster_Sachin_Tendulkar_Wallpapers.jpg</item>
+        <item>http://www.hdnicewallpapers.com/Walls/Big/Cricket/Brendon_McCullum_Famous_New_Zealand_Cricket_Player_HD_Wallpapers.jpg</item>
+    </string-array>
+</resources>
